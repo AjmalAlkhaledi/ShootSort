@@ -1,3 +1,5 @@
+![Logo](./assets/view.png)
+
 # Shoot Sort Algorithm
 
 Shoot Sort is a custom sorting algorithm inspired by Merge Sort but with a unique approach to handling sub-array division and merging. It is designed for educational purposes to demonstrate an alternative sorting technique.
